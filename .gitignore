@@ -1,5 +1,5 @@
 *-cache.lib
-*-bak
+*.bak
 *.bck
 *.dcm
 *.kicad_prl
